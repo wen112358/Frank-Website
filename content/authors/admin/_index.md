@@ -74,7 +74,7 @@ email: ''
 highlight_name: true
 ---
 
-Frank Wen is an incoming PhD candidate under the supervision of Professor {{< staticref "https://weichen-cas.github.io/" "newtab" >}}Wei Chen{{< /staticref >}} at Institute of Computing Technology, Chinese Academy of Sciences. His research interests include causal learning, machine learning and data science. He was directed by Associate Professor Shenglin Zhang during the undergraduate period.
+Frank Wen is an incoming PhD candidate under the supervision of Professor {{< staticref "https://weichen-cas.github.io/" "newtab" >}}Wei Chen{{< /staticref >}} at Institute of Computing Technology, Chinese Academy of Sciences. His research interests include causal learning, machine learning and data science. He was directed by Associate Professor {{< staticref "https://nkcs.iops.ai/shenglinzhang/" "newtab" >}}Shenglin Zhang{{< /staticref >}} during the undergraduate period.
 
 <!-- {{< icon name="download" pack="fas" >}}  -->
 Here is my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
