@@ -31,7 +31,7 @@ education:
   courses:
     - course: PhD Candidate in Computer Science and Technology
       institution: Institute of Computing Technology, Chinese Academy of Sciences
-      year: 2023 till now
+      year: 2023 - 2028
     - course: BEng in Software Engineering
       institution: Nankai University
       year: 2019 - 2023
