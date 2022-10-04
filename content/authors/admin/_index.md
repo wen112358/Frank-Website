@@ -1,43 +1,40 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Frank Wen(文雨晨)
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Frank
+last_name: Wen
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Incoming PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Institute of Computing Technology, Chinese Academy of Sciences
+    url: http://www.ict.ac.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include causal learning, machine learning and data science.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Causal Learning
+  - Machine Learning
+  - Data Science
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD Candidate in Computer Science and Technology
+      institution: Institute of Computing Technology, Chinese Academy of Sciences
+      year: 2023 till now
+    - course: BEng in Software Engineering
+      institution: Nankai University
+      year: 2019 - 2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
