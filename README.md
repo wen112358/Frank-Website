@@ -2,6 +2,8 @@
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bd899c4c-b687-4273-94f1-e104f57f10f2/deploy-status)](https://app.netlify.com/sites/frankwen/deploys)
+
 The Hugo **Academic Resumé Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
 
 [![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://wowchemy.com/hugo-themes/)
