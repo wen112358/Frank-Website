@@ -1,5 +1,7 @@
 # [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
 
+[![Security Status](https://s.murphysec.com/badge/wen112358/Frank-Website.svg)](https://www.murphysec.com/p/wen112358/Frank-Website)
+
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/bd899c4c-b687-4273-94f1-e104f57f10f2/deploy-status)](https://app.netlify.com/sites/frankwen/deploys)
